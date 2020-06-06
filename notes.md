@@ -10,7 +10,8 @@
 
 **Posters**
 * Wasn't a fan of the pre-made templates (seems very "internet in 2010" aesthetic) but I wasn't comfortable trying to make one from scratch
-*
+* I was a bit frustrated overall with Inkscape. It felt like I could make something better lookign in Microsoft Word (I'm sure this isn't the case if I knew how to use it properly but I had a lot of resizing/colouring/font issues)
+ * I made half a poster before giving up on trying to change the template
 
 ## Errors
 
