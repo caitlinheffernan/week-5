@@ -7,6 +7,11 @@
 **Maping**
 <iframe src="https://uploads.knightlab.com/storymapjs/21c9caaf9fa5961fbb09ab9d23d643e9/what-im-going-to-do-my-first-day-back-in-ottawa/index.html" frameborder="0" width="100%" height="800"></iframe>
 
+
+**Posters**
+* Wasn't a fan of the pre-made templates (seems very "internet in 2010" aesthetic) but I wasn't comfortable trying to make one from scratch
+*
+
 ## Errors
 
 * http://0.0.0.0:8000/ doesn't work
