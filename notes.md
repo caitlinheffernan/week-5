@@ -11,7 +11,8 @@
  
  **Static Site**
  * To link to journal: https://kieranheffernan.github.io/week-5/journal 
-  * No /blob/, no /`reponame`/ and no .md !!
+   * DON'T include /blob/,  /`reponame`/ or  .md !!
+ * Link to site: https://kieranheffernan.github.io/
 
 **Mapping**
 <iframe src="https://uploads.knightlab.com/storymapjs/21c9caaf9fa5961fbb09ab9d23d643e9/what-im-going-to-do-my-first-day-back-in-ottawa/index.html" frameborder="0" width="100%" height="800"></iframe>
@@ -20,3 +21,4 @@
 
 * http://0.0.0.0:8000/ doesn't work
   * http://localhost:8000 instead
+* have to include leaflet files in web-map repo, not just index.html
